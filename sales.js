@@ -52,7 +52,7 @@ CookieStand.prototype.render = function() {
 CookieStand.all = [];
 // TODO: instantiate a new CookieStand object (with sample data) for Dubai, Paris, and Lima
 new CookieStand('Seattle', 23, 65, 6.3);
-new CookieStand('Tokyo', 3, 24, 1.2);
+new CookieStand('Tokyo', 17, 78, 12.6);
 new CookieStand('Dubai', 23, 65, 6.3);
 new CookieStand('Paris', 23, 65, 6.3);
 new CookieStand('Lima', 23, 65, 6.3);
